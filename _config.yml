@@ -1,0 +1,16 @@
+title: Ludwig Schulze
+logo: /assets/img/profile.png
+description: |
+  Ph.D. Candidate<br>
+  Department of Political and Social Sciences<br>
+  European University Institute (EUI)<br>
+  <a href="mailto:ludwig.schulze@eui.eu">ludwig.schulze@eui.eu</a><br><br>
+  
+  <a href="/cv/sept_2024_cv.pdf"><strong>Curriculum Vitae</strong></a>
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-minimal
+github:
+  is_user_page: false
+  owner_url: https://github.com/ludwigschulze
+
