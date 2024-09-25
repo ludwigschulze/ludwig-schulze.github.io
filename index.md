@@ -6,7 +6,7 @@ I am a doctoral student at the Department of Political and Social Sciences at th
 
 **Working Papers**  
 
-1. Goodbye Comrades! Origins of Illiberal Political Preferences.
+1. Goodbye Comrades! Origins of Illiberal Political Preferences
 
 2. Going Through The Roof: Difference-in-Differences Designs in Contexts of Natural Boundaries (with Joris Frese)
 
